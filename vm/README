@@ -1,0 +1,6 @@
+A brainfuck interpreter
+(Part of the brainbang project)
+
+Feed it the bf-code and it will run it!
+
+Usage: vm <bf-file>

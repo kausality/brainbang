@@ -1,0 +1,2 @@
+To compile the file:
+cc bfvm.c main.c -o vm
